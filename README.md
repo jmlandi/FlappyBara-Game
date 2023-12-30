@@ -2,7 +2,7 @@
 
 
 ## 💭 About
-This project is my first project using `C#` and `Unity` and also `my first game development project`.
+This project is my first project using `C#` and `Unity` and also `my first game development project`. I created the sprites  with `Photoshop` and searched a lot on the internet to make the game run.
 
 ## 🚀 Preview
 - Homescreen:
